@@ -1,5 +1,3 @@
-HTTP/1.1 200 OK
-Content-Type: text/html
 <html>
 <head><title>First JSP</title></head>
 <body>
