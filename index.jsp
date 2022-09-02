@@ -2,6 +2,7 @@
 <head><title>First JSP</title></head>
 <body>
   <%
+    <h2>Lucky day prediction - 5% to succeed</p>
     double num = Math.random();
     if (num > 0.95) {
   %>
